@@ -59,11 +59,13 @@ While residing in Grand Rapids, Adan traveled to Chicago where he had many busin
 Adan worked as a painting instructor for the Chicago Art Institute's Summer School of Art at "Ox-Bow School of the Arts" in Saugatuck, Michigan. My father remembers as a little boy traveling to Saugatuck and playing amongst the trees while his father was giving painting lessons. Peter mentions that his father also instructed painting in the countryside. While his father was teaching, he would be fishing with his cane pole in a creek nearby.
 
 #+caption: Ox-Bow School of the Arts, Saugatuck, MI
+#+attr_html: :width 90%
 [[file:ox-bow.jpg]]
 
 In 1917, Adan became acquainted with a Mr. Edward Freyling. Mr. Freyling allowed Adan to use a storeroom in Freyling & Mendels Greenhouse on Wealthy Street to do his painting. That was where he "painted three murals for Central Reformed Church at 164 Fountain NE. The murals were painted on large framed canvas. The large one was Elijah ascending to heaven in a chariot. The smaller ones were on each side of that large one, but no information can be found concerning these two. They were mounted to the right of the platform opposite the organ. These paintings, sadly, were destroyed along with the entire Church in a disastrous fire on February 10, 1953.
 
 #+caption: Central Reformed Church, Grand Rapids, MI
+#+attr_html: :width 90%
 [[file:central-reformed.webp]]
 
 In 1920, Adan, Christina,  and their three children moved to 1342 Leonard Street. Their home was a comfortable, modest home with a flourishing garden in the back. The deRyke family was becoming comfortable in their new home in America. Adan even applied for US Citizenship and on November 18, 1920, he and his family became US citizens.
@@ -94,7 +96,6 @@ Preceptions Art Gallery, Grand Rapids, Michigan \\
 
 *AUTHOR*: \\
 Mrs. Roberta M:deRyke-Kemp-VanWasshnova \\
-1740 S. Grove Rd. 206A \\
 Ypsilanti, Michigan 49198
 
 *WEBSITE*: \\
